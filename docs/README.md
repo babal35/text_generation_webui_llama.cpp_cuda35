@@ -1,5 +1,4 @@
-These files are a mirror of the documentation at:
+text_generation_webui_llama.cpp_cuda35
 
-# https://github.com/oobabooga/text-generation-webui/wiki
+Fork of (https://github.com/oobabooga/text-generation-webui) WebUI for text generation with automatic use of pytorch and precompiled llama-cpp-python (make sure both are installed and compiled for a version CUDA 11.4) for CUDA 11.4 ​​for CUDA 3.5 GPUs not compatible with llama-cpp-python natively.
 
-It is recommended to browse it there. Contributions can be sent here and will later be synced with the wiki.
